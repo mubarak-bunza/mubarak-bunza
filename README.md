@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Mubarak Abubakar Bunza, Programming is my hobby.
+I am Mubarak, Programming is my hobby.
 
 Skills
 
