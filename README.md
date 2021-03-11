@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,10 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Mubarak, Programming is my hobby.
+I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
 
-Skills
+## About me
 
+- 📚 I’m currently learning ReactJs
+- 🎮 I love playing video games
+- 🥋 I am a Taekwondo practitioner 😊
+- 🎯
 - Python 
 - Javascript 
 - Web Development
+
+## I work with
+
+
+
