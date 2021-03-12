@@ -18,6 +18,7 @@ I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
 
 ## About me
 
+- ♡ I'm in love with anything tech
 - 📚 I’m currently learning ReactJs
 - 🎮 I love playing video games
 - 🥋 I am a Taekwondo practitioner 😊
@@ -39,11 +40,11 @@ I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
 
 <img align="left" title="Python" alt="Python" width="40px" height="40px" src="assets/python.png" />
 
-<img align="left" title="Django" alt="Django" width="40px" height="40px" src="assets/django.png" />
+<img align="left" title="Django" alt="Django" width="60px" height="40px" src="assets/django.png" />
 
-<img align="left" title="DRF" alt="DRF" width="45px" height="45px" src="assets/rest.png" /> 
+<img align="left" title="DRF" alt="DRF" width="60px" height="45px" src="assets/rest.png" /> 
 
-<img align="left" title="REACT" alt="REACT" width="45px" height="45px" src="assets/react.png" /> 
+<img align="left" title="REACT" alt="REACT" width="55px" height="50px" src="assets/react.png" /> 
 </p>
 
 <br />
