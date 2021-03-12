@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ ...
 
 - 👯 I’m looking to collaborate on ...
 
@@ -71,3 +71,27 @@ I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
         <img alt="GMAIL" src="https://img.shields.io/badge/GMAIL-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=red" />
     </a>
 </p>
+
+<br />
+<br />
+
+<details>
+<summary>
+    More stuff about me
+</summary>
+<br />
+
+## Profile visitors
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mubarak-bunza.mubarak-bunza)
+
+## Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubarak-bunza&count_private=true&hide=issues,contribs&show_icons=true&theme=dark)](https://github.com/mubarak-bunza/github-readme-stats)
+
+## Coding stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
