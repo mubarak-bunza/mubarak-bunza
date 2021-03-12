@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -18,19 +18,20 @@ I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
 
 ## About me
 
-- ♡ I'm in love with anything tech
+- ✨ I'm in ♡ with anything tech
 - 📚 I’m currently learning ReactJs
 - 🎮 I love playing video games
 - 🥋 I am a Taekwondo practitioner 😊
+- 👯 I’m looking to collaborate on outstanding project ideas
 
 ## 👨🏾‍💻 I work with
 
 <p>
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="45px" height="45px" src="assets/vscode.png" />
 
-<img align="left" title="HTML" alt="HTML" width="45px" height="45px" src="assets/html.png" />
+<img align="left" title="HTML5" alt="HTML5" width="45px" height="45px" src="assets/html.png" />
 
-<img align="left" title="CSS" alt="CSS" width="45px" height="45px" src="assets/css.png" />
+<img align="left" title="CSS3" alt="CSS3" width="45px" height="45px" src="assets/css.png" />
 
 <img align="left" title="SaSS" alt="SaSS" width="40px" height="40px" src="assets/sass.png" />
 
@@ -38,13 +39,17 @@ I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
 
 <img align="left" title="Bootstrap" alt="Bootstrap" width="40px" height="40px" src="assets/bootstrap.png" />
 
+<img align="left" title="React" alt="React" width="50px" height="50px" src="assets/react.png" /> 
+</p>
+
 <img align="left" title="Python" alt="Python" width="40px" height="40px" src="assets/python.png" />
 
 <img align="left" title="Django" alt="Django" width="60px" height="40px" src="assets/django.png" />
 
-<img align="left" title="DRF" alt="DRF" width="60px" height="45px" src="assets/rest.png" /> 
+<img align="left" title="Django Rest Framework" alt="Django Rest Framework" width="60px" height="45px" src="assets/rest.png" /> 
 
-<img align="left" title="REACT" alt="REACT" width="55px" height="50px" src="assets/react.png" /> 
+
+<img align="left" title="PostgreSQL" alt="PostgreSQL" width="55px" height="50px" src="assets/postgres.png" /> 
 </p>
 
 <br />
@@ -59,7 +64,10 @@ I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
     <a href="https://www.linkedin.com/in/mubarak-bunza" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <a href="https://twitter.com/Programmer_4013" target="_blank">
+        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
     <a href="mailto:mubarakabubakar227@gmail.com" target="_blank">
-        <img alt="Microsoft Outlook" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+        <img alt="GMAIL" src="https://img.shields.io/badge/GMAIL-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=red" />
     </a>
 </p>
