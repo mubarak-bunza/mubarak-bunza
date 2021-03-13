@@ -92,6 +92,9 @@ I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
 ## Coding stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 </details>
