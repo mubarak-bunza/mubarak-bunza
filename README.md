@@ -19,7 +19,7 @@ I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
 ## About me
 
 - ✨ I'm in ♡ with anything tech
-- 📚 I’m currently learning ReactJs
+- 📚 I’m currently learning DevOps
 - 🎮 I love playing video games
 - 🥋 I am a Taekwondo practitioner 😊
 - 👯 I’m looking to collaborate on outstanding project ideas
@@ -39,7 +39,6 @@ I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
 
 <img align="left" title="Bootstrap" alt="Bootstrap" width="40px" height="40px" src="assets/bootstrap.png" />
 
-<img align="left" title="React" alt="React" width="50px" height="50px" src="assets/react.png" /> 
 </p>
 
 <img align="left" title="Python" alt="Python" width="40px" height="40px" src="assets/python.png" />
