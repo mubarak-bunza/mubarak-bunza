@@ -92,7 +92,7 @@ I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java    2 mins          ██████████████████████▒░░   89.31 % 
 ```
 <!--END_SECTION:waka-->
 
