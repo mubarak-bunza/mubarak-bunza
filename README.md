@@ -92,7 +92,9 @@ I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
 
 <!--START_SECTION:waka-->
 ```text
+Total: 43 mins
 
+HTML       42 mins         ████████████████████████▓   98.61 % 
 ```
 <!--END_SECTION:waka-->
 
