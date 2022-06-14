@@ -93,7 +93,7 @@ I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
