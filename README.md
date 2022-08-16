@@ -93,7 +93,7 @@ I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
 <!--START_SECTION:waka-->
 
 ```text
-Elixir   2 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
