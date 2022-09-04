@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Mubarak 👨🏾‍, a committed Software Engineer 💻.
+I am Mubarak 👨🏾‍, a committed DevOps Engineer 💻.
 
 ## About me
 
 - ✨ I'm in ♡ with anything tech
-- 📚 I’m currently learning DevOps
+- 📚 I’m currently focusing on DevOps
 - 🎮 I love playing video games
 - 🥋 I am a Taekwondo practitioner 😊
 - 👯 I’m looking to collaborate on outstanding project ideas
