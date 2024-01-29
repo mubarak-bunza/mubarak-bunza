@@ -22,7 +22,7 @@ I am Mubarak 👨🏾‍, a committed DevOps Engineer 💻.
 - 📚 I’m currently focusing on DevOps
 - 🎮 I love playing video games
 - 🥋 I am a Taekwondo practitioner 😊
-- 👯 I’m looking to collaborate on outstanding project ideas
+- 👯 I’m looking to collaborate on outstanding project idea
 
 ## 👨🏾‍💻 I work with
 
